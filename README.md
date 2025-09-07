@@ -1,6 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0E7FC0,100:ce09ec&height=200&section=header&text=Abdelrahman%20Khaled&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=ce09ec&width=600&lines=Hi%2C+I'm+Abdelrahman+Khaled;Front-End+Developer;JavaScript+Enthusiast;Passionate+About+Web+Design)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0E7FC0,100:ce09ec&height=200&section=header&text=Abdelrahman%20Khaled&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=ce09ec&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrahman+Khaled;Front-End+Developer;JavaScript+Enthusiast;Passionate+About+Web+Design" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ---
 
