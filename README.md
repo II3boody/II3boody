@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ii3boody&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.vercel.app/api?user=ii3boody&bg_color=0E7FC0&text_color=FFFFFF&dates=FFFFFF&hide_border=true&disable_animations=true" />
 </p>
 
 ---
