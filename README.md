@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ii3boody&theme=flat&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ii3boody&no-frame=true&row=1&column=6" />
 </p>
 
 ---
