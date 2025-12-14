@@ -45,18 +45,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=ii3boody&bg_color=0E7FC0&text_color=FFFFFF&dates=FFFFFF&hide_border=true&disable_animations=true" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ii3boody&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0E7FC0&hide_border=true" height="165"/>
-
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=ii3boody&bg_color=0E7FC0&text_color=FFFFFF&dates=FFFFFF&hide_border=true&disable_animations=true" />
 </p>
 
 <p align="center">
