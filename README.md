@@ -20,15 +20,6 @@
 
 ---
 
-## 🚀 Current Project
-🍽️ **Restaurant Website**
-- Dynamic Menu Page  
-- Cart System (LocalStorage)  
-- Multilingual Support (EN / AR)  
-- Dark / Light Theme Toggle  
-
----
-
 ## 🎯 Goals for 2025
 ✔️ Master **React.js**  
 ✔️ Learn **Node.js & Express**  
